@@ -1,1 +1,1 @@
-service task
+service github.com/wtracker/task
